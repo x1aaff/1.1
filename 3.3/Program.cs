@@ -14,6 +14,7 @@ namespace _3._3
                 i++;
                 if (number % i == 0) flagIsNotPrimeNumber = true;
             }
+            if (number < 0) flagIsNotPrimeNumber = true;
             Console.WriteLine($"This is {!flagIsNotPrimeNumber} that your number is prime number!");
         }
 
