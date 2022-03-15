@@ -35,11 +35,9 @@ namespace _4._3
                     }
                     else
                     {
-                        Console.WriteLine("Это не число!");
+                        Console.WriteLine("Это не число");
                     }
                 }
-
-
             }
         }
     }

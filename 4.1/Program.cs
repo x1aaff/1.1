@@ -27,7 +27,6 @@ namespace _4._1
             }
 
             Console.WriteLine($"Сумма элементов матрицы: {sum}");
-
         }
     }
 }
