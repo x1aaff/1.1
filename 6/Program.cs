@@ -12,7 +12,6 @@ namespace Example_621_String
         {
             static void WriteDown(string id)
             {
-
                 string output = string.Empty;
                 Console.WriteLine("Новая запись:");
 
