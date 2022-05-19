@@ -64,7 +64,6 @@ namespace _7
                         break;
                 }
             }
-
             string path = @"data.csv";
             if (!File.Exists(path))
             {
